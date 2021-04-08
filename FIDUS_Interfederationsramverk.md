@@ -238,9 +238,10 @@ anslutning till FIDUS.
 | Interfederationsramverk | FIDUS-ramverket som utgörs av detta dokument, bilagor som kompletterar dokumentet samt FIDUS-deklarationen som signeras av FIDUS medlemmar.                                                                                                                                                                                                                                                         |
 | Tjänsteleverantör       | En organisation som ansvarar för att erbjuda slutanvändaren tjänsten som användaren kommer att nyttja via en federerad inloggning.                                                                                                                                                                                                                                                                  |
 
-| Revisionshistorik |            |                    |                                                                                                                                     |
-|-------------------|------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+## Revisionshistorik
+
 | Version           | Datum      | Författare         | Kommentar                                                                                                                           |
+|-------------------|------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | 0.1               | 2020-11-23 | Edin Nuhic         | Första version, granskat och avstämt i Skolverkets FIDUS team                                                                       |
 | 0.2               | 2020-11-25 | Edin Nuhic         | Ändringar efter Pål Axelssons granskning                                                                                            |
 | 0.3               | 2020-11-30 | Edin Nuhic         | Ändringar efter Pål Axelssons granskning                                                                                            |
