@@ -6,7 +6,7 @@
 
 -   [MFA för federerad användning av Skolverkets tjänster](FIDUS_Skolverket_MFA.md)
 
-## Utdrag ur beslutade FIDUS Interfederationspolicy
+## Utdrag ur FIDUS beslutade Interfederationsramverk
 
 ### Bakgrund
 
