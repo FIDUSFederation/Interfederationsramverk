@@ -1,6 +1,6 @@
 # FIDUS Interfederationsramverk
 
--   [FIDUS Interfederationspolicy](FIDUS_Interfederationsramverk.md)
+-   [FIDUS Interfederationsramverk](FIDUS_Interfederationsramverk.md)
 
 -   [Deklaration av medlemskap i FIDUS](FIDUS_deklaration.md)
 
