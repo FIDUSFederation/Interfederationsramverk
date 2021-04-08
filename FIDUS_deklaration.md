@@ -16,11 +16,9 @@ följa FIDUS interfederationsramverk [FIDUS Interfederationsramverk.docx] och:
 
     a.  För federationsverksamhet vid var tid kunna uppvisa ett giltigt
         certifikat avseende aktuell version av ISO/IEC 27001
-
         i.  *Eller (om statlig myndighet)*
 
     b.  uppfylla kraven i
-
         i.  MSBFS 2020:6 föreskrifter om informationssäkerhet för statliga
             myndigheter
 
@@ -117,7 +115,7 @@ ges ovan angivna kontaktpersoner fullmakt/intygas att ovan angivna
 kontaktpersoner är behöriga att för Federationens räkning agera inom ramen
 för respektive angiven funktion.
 
-[Organisation och underskrift](media/FIDUS_Deklaration_Underskriftsfalt.png)
+![Organisation och underskrift](media/FIDUS_Deklaration_Underskriftsfalt.png)
 
 ## Revisionshistorik
 
