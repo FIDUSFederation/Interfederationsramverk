@@ -1,15 +1,15 @@
-![](media/Skolverket.png)
+![Skolverket](media/Skolverket.png)
 
-Verksamhetsutvecklingsstöd Dnr. 2021:831-2      2021-03-24
+Verksamhetsutvecklingsstöd Dnr. 2021:831-2 - 2021-03-24
 
 
 # FIDUS Interfederationsramverk
 
 ## Bakgrund
 
-Skolverket inför på riksdagens och regeringens uppdrag [[Uppdrag att
+Skolverket inför på riksdagens och regeringens uppdrag [Uppdrag att
 digitalisera de nationella proven m.m.
-U2017/03739/GV](https://www.skolverket.se/download/18.6011fe501629fd150a23638/1526474796067/U2017-03739-GV_Digitalisering-nat-prov.pdf)]
+U2017/03739/GV](https://www.skolverket.se/download/18.6011fe501629fd150a23638/1526474796067/U2017-03739-GV_Digitalisering-nat-prov.pdf)
 digitala nationella prov i grundskola, gymnasieskola samt kommunal
 vuxenutbildning. Skolverket tillhandahåller de digitala nationella proven och
 vissa andra funktioner som e-tjänster riktade till elever och personal
