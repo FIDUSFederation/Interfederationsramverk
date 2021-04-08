@@ -92,14 +92,14 @@ följa FIDUS interfederationsramverk [FIDUS Interfederationsramverk.docx] och:
     efternamn, telefonnummer, mejladress – företrädesvis en funktionsbrevlåda)
     till följande roller i federationen:
 
-    1.  Kontaktperson för Avtalet och administrativa frågor
+    a.  Kontaktperson för Avtalet och administrativa frågor
 
-    2.  Kontaktperson som är behörig att anmäla uppgifter för interfederering om
+    b.  Kontaktperson som är behörig att anmäla uppgifter för interfederering om
         manuell hantering skulle vara nödvändig
 
-    3.  Kontaktperson som är behörig att hantera säkerhetsincidenter
+    c.  Kontaktperson som är behörig att hantera säkerhetsincidenter
 
-    4.  Kontaktperson för supportfrågor
+    d.  Kontaktperson för supportfrågor
 
 Skulle någon bestämmelse i denna deklaration befinnas vara ogiltig, olaglig
 eller otillåten i någon jurisdiktion ska detta inte påverka giltigheten,
