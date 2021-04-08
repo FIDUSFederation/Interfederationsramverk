@@ -136,7 +136,7 @@ En operatör som driver en federation som önskar ingå i FIDUS måste
 Processen att ansluta sig till FIDUS som medlemsfederation är som följer:
 
 1.  En företrädare för den sökande federationsoperatören tecknar
-    FIDUS-deklarationen [**Bilaga – FIDUS deklarationen**] och presenterar den
+    [FIDUS-deklarationen](FIDUS_deklaration.md) och presenterar den
     för FIDUS Federationsråd som bereder beslutet som formellt tas av FIDUS
     styrgruppen.
 
@@ -176,23 +176,23 @@ av eller diskvalificera en medlemsfederation. I så fall händer följande:
 Federationer i FIDUS ska ha öppet publicerade regler för tillitsnivåer i
 identitetsintyg i enlighet med
 
--   EU:s eIDAS-förordning[^1] eller
+-   EU:s eIDAS-förordning[1] eller
 
 -   Myndigheten för digital förvaltnings (DIGG:s) regler för tillitsnivåer eller
 
--   deklaration i internetorganisationen IANAs register över tillitsnivåer[^2]
+-   deklaration i internetorganisationen IANAs register över tillitsnivåer[2]
 
-[^1]: Europaparlamentets och rådets förordning (EU) nr 910/2014 av den 23 juli
+I tillägg till detta har Skolverket rekommendationer för MFA som beskrivs i
+bilaga [MFA för federerad användning av Skolverkets tjänster](FIDUS_Skolverket_MFA.md) och
+ingående federation behöver tekniskt stödja hantering av rekommenderade
+lösningar för MFA som krävs för genomförande av digitala nationella prov.
+
+[1]: Europaparlamentets och rådets förordning (EU) nr 910/2014 av den 23 juli
     2014 om elektronisk identifiering och betrodda tjänster för elektroniska
     transaktioner på den inre marknaden (”eIDAS-förordningen*”*).
 
-[^2]: IANAs register över tillitsnivåer, webbadress
+[2]: IANAs register över tillitsnivåer, webbadress
     [https://www.iana.org/assignments/loa-profiles/loa-profiles.xhtml\#loa-profiles-1](https://www.iana.org/assignments/loa-profiles/loa-profiles.xhtml#loa-profiles-1)
-
-I tillägg till detta har Skolverket rekommendationer för MFA som beskrivs i
-bilaga [**Bilaga - MFA för federerad användning av Skolverkets tjänster**] och
-ingående federation behöver tekniskt stödja hantering av rekommenderade
-lösningar för MFA som krävs för genomförande av digitala nationella prov.
 
 ## Tvistelösning
 
@@ -217,14 +217,15 @@ anslutning till FIDUS.
 
 ## Bilagor
 
-[MFA-bilaga - MFA bilagan för federerad användning av Skolverkets tjänster]
+-   [MFA för federerad användning av Skolverkets tjänster](FIDUS_Skolverket_MFA.md)
 
 ## Appendix
 
 ### Termer och begrepp
 
-| AAI                     | Autentiserings- och auktoriseringsinfrastruktur.                                                                                                                                                                                                                                                                                                                                                    |
+|                      |                                                                                                                                                                                                                                                                                                                                                     |
 |-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AAI                     | Autentiserings- och auktoriseringsinfrastruktur.                                                                                                                                                                                                                                                                                                                                                    |
 | FIDUS                   | FIDUS möjliggör ett tillförlitligt utbyte av information relaterad till identitet, autentisering och auktorisation (AAI) via sina medlemsfederationer genom att erbjuda ett ramverk, aggregerat metadata och delad styrning av FIDUS tjänster.                                                                                                                                                      |
 | FIDUS-deklarationen     | Deklaration som undertecknas av federationerna för att gå med i FIDUS.                                                                                                                                                                                                                                                                                                                              |
 | Entitet                 | Entitet betyder en AAI-slutpunkt. En entitet kan till exempel vara en identitetsleverantör, tjänsteleverantör eller attributleverantör. I detta dokument avser en entitet en entitets metadata som en deltagarfederation har utbytt genom FIDUS.                                                                                                                                                    |
