@@ -66,7 +66,9 @@ andra hot. Exempel på tokens som uppfyller detta är bland annat alla
 
 -   **PKI-baserade smarta kort (t ex baserade på PIV eller PKCS\#15**).
 
-# 6. Om en organisation väljer en lösning som inte finns på listan ovan rekommenderas kontakt med Skolverket för samråd kring den valda lösningen MFA2: MFA genom ID-länkning till en extern leverantör av digitala identiteter
+Om en organisation väljer en lösning som inte finns på listan ovan rekommenderas kontakt med Skolverket för samråd kring den valda lösningen.
+
+# 6. MFA2: MFA genom ID-länkning till en extern leverantör av digitala identiteter
 
 *Förväntningen är att initial inloggning sker via egen IdP men ID länkning sker
 till extern leverantör för MFA (helt egen eller med hjälp av en integratör).*
