@@ -1,6 +1,8 @@
 ![Skolverket](media/Skolverket.png)
 
-# 1. Inledning
+# Krav på multifaktorsautentisering för Skolverkets tjänster i FIDUS
+
+## 1. Inledning
 
 Multifaktorsautentisering (MFA) är i vissa fall ett obligatoriskt
 autentiseringskrav för åtkomst till Skolverkets tjänster i federationsförbundet
@@ -13,7 +15,7 @@ federationsförbundet FIDUS.
 Denna bilaga beskriver de krav som ställs för identitetskontroll när användarens
 identitet behöver verifieras med två eller flera autentiseringsfaktorer.
 
-# 2. Målgrupp och tillämpning av krav
+## 2. Målgrupp och tillämpning av krav
 
 Krav i detta dokument är riktade till användarorganisationer – skolor, huvudmän,
 lärosäten som använder Skolverkets tjänst för digitala prov.
@@ -22,7 +24,7 @@ Användarorganisationerna ska ha som målsättning att tillämpa dessa krav när
 själva står för utgivningen av digitala identiteter men även när en
 e-legitimation används från extern leverantör.
 
-# 3. Multifaktorautentisering
+## 3. Multifaktorautentisering
 
 En eller flera separata inloggningsuppgifter (credentials) som tillsammans eller
 var och en för sig implementerar olika autentiseringsfaktorer och uppfyller
@@ -35,7 +37,7 @@ kraven nedan **skall** användas. Kravet kan uppfyllas antingen genom
 
 -   MFA3: både inloggning samt MFA med eduID
 
-# 4. Säkerhetskrav på utgivare av användares digitala identitet
+## 4. Säkerhetskrav på utgivare av användares digitala identitet
 
 Det är viktigt att särskilja vem som är utgivare av användares digitala
 identitet.
@@ -56,7 +58,7 @@ tillitsnivån som krävs vid autentiseringen.
 [1]: Tillitsramverk från DIGG där tillitsnivåerna specificeras finns här:
     [https://www.digg.se/globalassets/dokument/digital-identitet/e-legitimering/kvalitetsmarket-svensk-e-legitimation/tillitsramverk/tillitsramverk-for-svensk-e-legitimation.pdf](https://www.digg.se/globalassets/dokument/digital-identitet/e-legitimering/kvalitetsmarket-svensk-e-legitimation/tillitsramverk/tillitsramverk-for-svensk-e-legitimation.pdf)
 
-# 5. MFA1: Användarorganisationen implementerar MFA på egen hand 
+## 5. MFA1: Användarorganisationen implementerar MFA på egen hand 
 
 Vid egen MFA-lösning i anslutning till egen IdP **skall** token för
 multifaktorautentisering användas för skydd mot cyberattacker, nätfiske och
@@ -68,7 +70,7 @@ andra hot. Exempel på tokens som uppfyller detta är bland annat alla
 
 Om en organisation väljer en lösning som inte finns på listan ovan rekommenderas kontakt med Skolverket för samråd kring den valda lösningen.
 
-# 6. MFA2: MFA genom ID-länkning till en extern leverantör av digitala identiteter
+## 6. MFA2: MFA genom ID-länkning till en extern leverantör av digitala identiteter
 
 *Förväntningen är att initial inloggning sker via egen IdP men ID länkning sker
 till extern leverantör för MFA (helt egen eller med hjälp av en integratör).*
@@ -115,7 +117,7 @@ Följande implementationer rekommenderas i detta fall:
     eduID Proxy IDP. Val av MFA-lösning för eduID görs av
     användarorganisationen.
 
-# 7. MFA3: Inloggningen och MFA sker via extern IDP 
+## 7. MFA3: Inloggningen och MFA sker via extern IDP 
 
 -   **EduID**
 
@@ -123,7 +125,7 @@ Följande implementationer rekommenderas i detta fall:
     tjänst i FIDUS kan även välja att använda eduID som sin IdP. EduID har stöd
     för Freja eID+ och alla U2F/FIDO2-kompatibla tokens
 
-# Revisionshistorik
+## Revisionshistorik
 
 | Version           | Datum      | Författare          | Kommentar                                                                                                                         |
 |-------------------|------------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------|
