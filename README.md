@@ -66,3 +66,7 @@ Tjänster som finns i till FIDUS anslutna federationer propageras inte
 automatiskt till FIDUS. Den tjänsteleverantör som önskar publicera en tjänst i
 FIDUS måste ansöka om att publicera den tjänsten till FIDUS federationsrådet.
 Slutgiltigt godkännande tas av FIDUS styrgruppen.
+
+# Andra styrdokument
+
+- [Protokoll från FIDUS Styrgrupp](https://github.com/FIDUSFederation/policy/wiki/Styrgrupp)
