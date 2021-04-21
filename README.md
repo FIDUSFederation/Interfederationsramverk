@@ -6,8 +6,6 @@
 
 -   [MFA för federerad användning av Skolverkets tjänster](FIDUS_Skolverket_MFA.md)
 
--   [Information om attributöverföring i metadata](Information_om_attributoverforing_i_metadata.md)
-
 ## Utdrag ur FIDUS beslutade Interfederationsramverk
 
 ### Bakgrund
@@ -69,6 +67,10 @@ automatiskt till FIDUS. Den tjänsteleverantör som önskar publicera en tjänst
 FIDUS måste ansöka om att publicera den tjänsten till FIDUS federationsrådet.
 Slutgiltigt godkännande tas av FIDUS styrgruppen.
 
-# Andra styrdokument
+# Operationella styrdoument
+
+-   [Information om attributöverföring i metadata](Information_om_attributoverforing_i_metadata.md)
+
+# FIDUS Styrgrupp
 
 - [Protokoll från FIDUS Styrgrupp](https://github.com/FIDUSFederation/policy/wiki/Styrgrupp)
