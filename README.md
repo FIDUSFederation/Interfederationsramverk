@@ -6,6 +6,8 @@
 
 -   [MFA för federerad användning av Skolverkets tjänster](FIDUS_Skolverket_MFA.md)
 
+-   [Information om attributöverföring i metadata](Information_om_attributoverforing_i_metadata.md)
+
 ## Utdrag ur FIDUS beslutade Interfederationsramverk
 
 ### Bakgrund
