@@ -74,3 +74,4 @@ Slutgiltigt godkännande tas av FIDUS styrgruppen.
 # FIDUS Styrgrupp
 
 - [Protokoll från FIDUS Styrgrupp](https://github.com/FIDUSFederation/policy/wiki/Styrgrupp)
+- [Minnesanteckningar från FIDUS Federationsråd](https://github.com/FIDUSFederation/policy/wiki/Federationsr%C3%A5d)
