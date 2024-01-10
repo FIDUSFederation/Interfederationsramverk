@@ -7,25 +7,20 @@ Verksamhetsutvecklingsstöd Dnr. 2021:831-2 - 2021-03-24
 
 Nedan angiven federationsoperatör förklarar härmed gentemot Federationsrådet att
 den vill ansluta nedan angiven federation till FIDUS, och att den kommer att
-följa FIDUS interfederationsramverk [FIDUS Interfederationsramverk.docx] och:
+följa [FIDUS interfederationsramverk](FIDUS_Interfederationsramverk.md) och:
 
 1.  Federationsoperatören kommer att publicera metadata om de tjänster och
     identitetsleverantörer som ska ingå i interfederationen FIDUS.
 
-2.  Federationsoperatören ska antingen
+2.  Federationsoperatören ska bedriva ett systematiskt och riskbaserat informationssäkerhetsarbete med stöd av standarderna * *SS-EN ISO/IEC 27001 Informationsteknik - Säkerhetstekniker - Ledningssystem för informationssäkerhet - Krav* * och * *SS-EN ISO/IEC 27002 Informationsteknik - Säkerhetstekniker - Riktlinjer för informationssäkerhetsåtgärder* * eller motsvarande. Avgränsningen för ledningssystemet ska innefatta åtminstone alla delar i Federationsoperatörens verksamhet som berör dennes medverkan i Fidus. Om federationsoperatören väljer att använda andra standarder än ISO-standarderna ska federationsoperatören analysera och dokumentera de likheter och skillnader som finns mellan ISO-standarderna och valda standarder för att säkerställa att de ger tillräckligt stöd i det systematiska och riskbaserade informationssäkerhetsarbetet.
 
-    a.  För federationsverksamhet vid var tid kunna uppvisa ett giltigt
-        certifikat avseende aktuell version av ISO/IEC 27001
+    a. Om federationsoperatören inte är en statlig myndighet ska federationsoperatören styrka att ett sådant informationssäkerhetsarbete bedrivs genom certifiering eller revision.
 
-        i.  *Eller (om statlig myndighet)*
+    b. Revision av informationssäkerhetsarbetet ska ske i en treårscykel som inleds med en ny- eller omrevision. Övriga år ska federationsoperatören genomgå en uppföljningsrevision.
 
-    b.  uppfylla kraven i
+    c. Revision enligt punkterna 2 a och 2 b ska utföras av en oberoende extern revisor med kompetens inom informationssäkerhet och i enlighet med god revisionssed.
 
-        i.  MSBFS 2020:6 föreskrifter om informationssäkerhet för statliga
-            myndigheter
-
-        ii.  MSBFS 2020:7 Föreskrifter om säkerhetsåtgärder i informationssystem
-            för statliga myndigheter.
+    Kravet är formulerat utifrån MSB:s föreskrifter (MSBFS 2020:6) om informationssäkerhet för statliga myndigheter, varför även aktörer som omfattas av de föreskrifterna uppfyller informationssäkerhetskravet för anslutning. Statliga myndigheter är därför även undantagna från kravet på certifiering eller oberoende revision.
 
 3.  Federationsoperatören ska tydligt märka sina entiteter (medlemmarnas
     metadata) med vilken federation entiteterna kommer ifrån (genom att fylla i
@@ -132,3 +127,4 @@ för respektive angiven funktion.
 | 0.7               | 2021-01-11 | Edin Nuhic         | Ändringar efter kommentarer från Skolfederationens jurister                                                                                                       |
 | 0.81              | 2021-01-28 | Edin Nuhic         | Infört begreppet interfederationsramverk, och tagit bort policy, efter inrådan från Skolverkets jurister, justerat efter ändringar, samt Marcello M korrigeringar |
 | 1.0               | 2021-03-24 | Callisto Utriainen | Inga ändringar, godkänt av FIDUS Federationsråds styrgrupp                                                                                                        |
+| 2.0               | 2023-12-21 | Federationsrådet | Förändring av krav runt krav på informationssäkerhet, godkänt av FIDUS Styrgrupp 2023-12-21                                                                                                        |
