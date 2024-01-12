@@ -17,12 +17,7 @@ Detta dokument beskriver syftet med FIDUS och villkoren för anslutning. Här de
 FIDUS ägs av Skolverket men utvecklas och förvaltas av Sunet. Den består av:
 
 1.  En tjänst som samlar in metadata från de anslutna federationerna
-2.  En metadatafil som innehåller
-
-    a. Tjänster som kan nyttjas av de anslutna federationernas medlemmar (Service Providers – SP)
-
-    b. Metadata om varje enskild medlems inloggningstjänst (Identity Provider – IDP)
-
+2.  En metadatafil
 3.  En ”anvisningstjänst” (Discovery Service), där de som loggar in kan välja sin IDP
 
 ## Syfte och mål med FIDUS
@@ -161,3 +156,4 @@ Det utgår ingen ersättning och inga avgifter för federationsoperatörernas an
 | 0.93    | 2021-02-24 | Edin Nuhic         | Språkjusteringar                                                                                                                    |
 | 1.0     | 2021-03-24 | Callisto Utriainen | Inga ändringar, godkänt av FIDUS Federationsråds styrgrupp                                                                          |
 | 2.0     | 2023-10-13 | Federationsrådet   | Avsnittet om tillitsnivåer utgår efter styrgruppsbeslut.                                                                            |
+| 2.1     | 2023-12-21 | Federationsrådet   | Punkt 2 i avsnittet om FIDUS förenklas efter styrgruppsbeslut för att möjliggöra ytterligare federationsteknologi.                  |
