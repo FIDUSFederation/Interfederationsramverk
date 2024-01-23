@@ -38,6 +38,7 @@ Tjänster som finns i till FIDUS anslutna federationer propageras inte automatis
 # Operationella styrdoument
 
 -   [Information om attributöverföring i metadata](Information_om_attributoverforing_i_metadata.md)
+-   [mTLS inom ramen för Fidus](mTLS_inom_ramen_for_Fidus.md)
 
 # FIDUS Styrgrupp
 
