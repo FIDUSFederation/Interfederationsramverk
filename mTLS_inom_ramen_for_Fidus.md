@@ -8,9 +8,9 @@ Styrgruppen beslutade i december 2023 att Fidus interfederation utökas med funk
 
 Machine and Organization Authentication (Moa[^3]) är den praktiska tillämpningen av FedTLS för autentisering till provisioneringstjänsten för DNP. Fidus stödjer i och med styrgruppens beslut den tekniska profilen[^4] för Moa.
 
-Utöver FedTLS accepterar provisioneringstjänsten för DNP kvalificerade certifikat för webbserverautentisering (QWAC[^5]) i enlighet med eIDAS-förordningen (EU 910/2014) [^6]. Certifikaten behöver vara försedda med attribut för klientautentisering och innehålla organisationsnummer.
+Utöver FedTLS kommer provisioneringstjänsten för DNP acceptera kvalificerade certifikat för webbserverautentisering (QWAC[^5]) i enlighet med eIDAS-förordningen (EU 910/2014)[^6]. Certifikaten behöver vara försedda med attribut för klientautentisering och innehålla organisationsnummer.
 
-Under en övergångsperiod accepterar provisioneringstjänsten för DNP även historiskt etablerade funktionscertifikat som utfärdats före 2024-07-01 från följande utfärdare:
+DNP accepterar redan historiskt etablerade funktionscertifikat från följande utfärdare:
 
 -   SITHS e-id funktionscertifikat (Inera)
 -   E-identitet för offentlig sektor – EFOS (Försäkringskassan)
